@@ -1,0 +1,6 @@
+{
+  "name": "RecoverAI",
+  "description": "AI-Powered Autonomous Revenue Recovery Platform with Razorpay Test Mode integration, deterministic policy safety gates, evaluation benchmark, and immutable audit trails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
